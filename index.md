@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: GuiltySpark
+tagline: Gokul hates writing
 ---
 {% include JB/setup %}
 
